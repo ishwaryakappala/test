@@ -14,6 +14,7 @@ public class Stock {
     private Date tradingDate;
     private LocalDate tradingDate;
     private String stockName;
+    //test
 
     public Stock(String tickerSymbol,
                  String tickerName,
